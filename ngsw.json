@@ -1,0 +1,126 @@
+{
+  "configVersion": 1,
+  "timestamp": 1600330593102,
+  "index": "https://YINON1565.github.io/Miss-Bit-Angular/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://YINON1565.github.io/Miss-Bit-Angular/favicon.ico",
+        "https://YINON1565.github.io/Miss-Bit-Angular/index.html",
+        "https://YINON1565.github.io/Miss-Bit-Angular/main.9f289768d2d3234bf111.js",
+        "https://YINON1565.github.io/Miss-Bit-Angular/manifest.webmanifest",
+        "https://YINON1565.github.io/Miss-Bit-Angular/polyfills.a4021de53358bb0fec14.js",
+        "https://YINON1565.github.io/Miss-Bit-Angular/runtime.e227d1a0e31cbccbf8ec.js",
+        "https://YINON1565.github.io/Miss-Bit-Angular/styles.c00a82a2d0d5a514bdfd.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://YINON1565.github.io/Miss-Bit-Angular/ArchitectsDaughter-Regular.a8311c892cd6be123bed.ttf",
+        "https://YINON1565.github.io/Miss-Bit-Angular/BalooBhai2-Regular.5a192340355c75000523.ttf",
+        "https://YINON1565.github.io/Miss-Bit-Angular/CinzelDecorative-Regular.25f648d1f13b6b98a5c8.ttf",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/fonts/ArchitectsDaughter-Regular.ttf",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/fonts/BalooBhai2-Regular.ttf",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/fonts/CinzelDecorative-Regular.ttf",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/fonts/eurof35.ttf",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/icons/apple-touch-icon.png",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/icons/favicon-16x16.png",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/icons/favicon-32x32.png",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/icons/favicon.ico",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/icons/logo192.png",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/icons/logo512.png",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/add-friend.svg",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/bin.svg",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/bitcoin-logo.svg",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/bitcoin-menu.svg",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/bitcoin.svg",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/go-back.svg",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/homepage.svg",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/line-chart.svg",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/loading.svg",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/log-in.svg",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/menu.svg",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/pen.svg",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/research.svg",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/send.svg",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/user-profile.svg",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/user.svg",
+        "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/wifi.svg",
+        "https://YINON1565.github.io/Miss-Bit-Angular/eurof35.00394d23267adc7045d6.ttf"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://YINON1565.github.io/Miss-Bit-Angular/ArchitectsDaughter-Regular.a8311c892cd6be123bed.ttf": "dc1eb739ba0d947b857ac5fd619e792412b5310c",
+    "https://YINON1565.github.io/Miss-Bit-Angular/BalooBhai2-Regular.5a192340355c75000523.ttf": "e4cfabbf58f54866a12a0f8f37156a8fbed028a0",
+    "https://YINON1565.github.io/Miss-Bit-Angular/CinzelDecorative-Regular.25f648d1f13b6b98a5c8.ttf": "7fb1aa76edb91d7e8e1458454944d218fab05391",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/fonts/ArchitectsDaughter-Regular.ttf": "dc1eb739ba0d947b857ac5fd619e792412b5310c",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/fonts/BalooBhai2-Regular.ttf": "e4cfabbf58f54866a12a0f8f37156a8fbed028a0",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/fonts/CinzelDecorative-Regular.ttf": "7fb1aa76edb91d7e8e1458454944d218fab05391",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/fonts/eurof35.ttf": "3277ddde8ab4da379a27fd007eb6d58aeb342e5d",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/icons/apple-touch-icon.png": "2a45194981fd6e526857fd1a8b55cb4bfeb59b41",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/icons/favicon-16x16.png": "6f4e138bc0d36944e6867164f736fdf4f6e1fb72",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/icons/favicon-32x32.png": "b592374f06cddb51aec6168f0428d9f2925d57f6",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/icons/favicon.ico": "8c2a2419f4b1fae905422a24bc87744412321221",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/icons/logo192.png": "f774236b149b1897faa4b904793fc071f1ab9ade",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/icons/logo512.png": "c7bb2839e7de1cf52fcfdbe4f4edb5de15c19a87",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/add-friend.svg": "bdf900059ba610d46f9ce5e351d2ed54d3abe0cf",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/bin.svg": "fa2eda786db56c3852f8d5c56ad3a2238248786f",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/bitcoin-logo.svg": "53404c31930ff540cc0d8042977ab195dddefcfd",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/bitcoin-menu.svg": "e4b4176462dee016a59e6789c7c0bdfc87670ced",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/bitcoin.svg": "17fd829cc13eb3625f0e4f2d246d85347fe6b641",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/go-back.svg": "6a016118e4d7f53a29e3904ea885550aeaa68dc8",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/homepage.svg": "045c4bca676bf569fb759246a55efe6b72956d25",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/line-chart.svg": "3486bda570e72f75a5f8e01d7751459978136b2f",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/loading.svg": "04dfd36aebf29b8357b6c728176775e30c62e3ac",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/log-in.svg": "0a20d4de2f37f234c3d52aa577a590bac016a187",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/menu.svg": "46a7aac30ca560f3b9ad332825385d96e92f0a7d",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/pen.svg": "add813933da51054e0d698235bf5e1a9032d378a",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/research.svg": "a791468d7edc0184507be08aaf04d4ecf5366cfb",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/send.svg": "96243fc6ae61a093d036202849448447bdbdfd43",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/user-profile.svg": "d37ddf39241290806770b86c6496921a11b131c2",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/user.svg": "6e320a4fd051230faf141e7e44e6b5a15b5fb3ef",
+    "https://YINON1565.github.io/Miss-Bit-Angular/assets/svg/wifi.svg": "37fc8bc250ea78f375edf2a9a68ced03bedcc155",
+    "https://YINON1565.github.io/Miss-Bit-Angular/eurof35.00394d23267adc7045d6.ttf": "3277ddde8ab4da379a27fd007eb6d58aeb342e5d",
+    "https://YINON1565.github.io/Miss-Bit-Angular/favicon.ico": "b592374f06cddb51aec6168f0428d9f2925d57f6",
+    "https://YINON1565.github.io/Miss-Bit-Angular/index.html": "f6330ffe30d05076a295d320948a204208d926b6",
+    "https://YINON1565.github.io/Miss-Bit-Angular/main.9f289768d2d3234bf111.js": "f98d1c65e26d92ed8aca4c9ecdf0a14ae8e09260",
+    "https://YINON1565.github.io/Miss-Bit-Angular/manifest.webmanifest": "63d46adfb9a6f23f59ae0a9537dc25882e616b2c",
+    "https://YINON1565.github.io/Miss-Bit-Angular/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
+    "https://YINON1565.github.io/Miss-Bit-Angular/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://YINON1565.github.io/Miss-Bit-Angular/styles.c00a82a2d0d5a514bdfd.css": "897cb25168455b3a5cb54433f98132fc9c2d6fbb"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
